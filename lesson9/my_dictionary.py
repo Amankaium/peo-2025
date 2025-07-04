@@ -4,7 +4,7 @@ profile = {
     "code": "Python",
 }
 print(profile)
-profile["company"] = "Red Petroleum"
+profile["company"] = "Red Petroleum" # добавление
 print(profile)
 
 del profile["age"]
